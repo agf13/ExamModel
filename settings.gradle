@@ -1,2 +1,4 @@
 rootProject.name = 'ExamModel'
+include 'sensor-app'
+include 'server-app'
 
